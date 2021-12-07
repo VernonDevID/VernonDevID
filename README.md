@@ -1,6 +1,30 @@
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I’m @PitoDev...</h1>
 
-<p align='center'><a href="https://www.instagram.com/pitodev._/"><img height="200" src="https://github.com/PitoDevID/PitoDevID/blob/pitodev/pitodev.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+<p align='center'><img height="200" src="https://github.com/PitoDevID/PitoDevID/blob/pitodev/pitodev.jpg?raw=true"></a>&nbsp;&nbsp;</p>
+
+<p align="center">
+
+- Hy Im PitoDev
+- I live in Indonesian
+
+
+### Tools:
+<p align="center">
+    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://gpvc.arturio.dev/PitoDevID" />
+</p>
+
+
+### Stats:
+<details>
+ <summary><strong>What did I learn ?</strong></summary>
+    - 🌱 I'm currently learning to enjoy life  </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="mailto:pitodevbusiness@gmail.com">Email me!</a>  </br>
+    - 😄 Pronouns: He/Him </br>
+    - ⚡ Fun fact: ... </br>
+</details>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -16,7 +40,7 @@
 </p>
 
 
+### Connect with me 
 <p align="center">
-  <a href="pitodevbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-@pitodev-ea4335?style=for-the-badge&logo=Gmail&logoColor=ea4335&link=pitodevbusiness@gmail.com" /></a>
-</p>
-
+  <a href="https://instagram.com/pitodev._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6285235637978"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /><br>
