@@ -22,7 +22,6 @@
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:pitodevbusiness@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
 </details>
 
 
