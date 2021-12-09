@@ -17,7 +17,7 @@
 
 ### Stats:
 <details>
- <summary><strong>What did I learn ?</strong></summary>
+ <summary><strong>About me.</strong></summary>
     - 🌱 I'm currently learning to enjoy life  </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:pitodevbusiness@gmail.com">Email me!</a>  </br>
