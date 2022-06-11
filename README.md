@@ -2,7 +2,7 @@
 
 <p align="center">
 
-- Hy Im VernonDev
+- Hi! Im VernonDev
 - I live in Indonesian
 - Liking Someone With The Initials F
     
