@@ -2,7 +2,7 @@
 
 <p align="center">
 
-- Hy Im PitoDev
+- Hy Im VernonDev
 - I live in Indonesian
 
 
@@ -18,7 +18,7 @@
  <summary><strong>About me.</strong></summary>
     - 🌱 I'm currently learning to enjoy life  </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:pitodevbusiness@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:vernondevid@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
 </details>
 
