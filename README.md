@@ -4,7 +4,7 @@
 
 - Hy Im VernonDev
 - I live in Indonesian
--Liking someone with the initials F   
+- Liking Someone With The Initials F
     
 
 
